@@ -1,0 +1,101 @@
+body {
+  margin:0;
+  background-color: #B2BFAB;
+}
+.first{
+  background-color: #B2BFAB;
+  background-image: url("css pics/6.jpg");
+  height: 800px;
+  margin: 0;
+  width: 1600px;
+}
+.second{
+  background-color: #E8ECE4;
+  height: 300px;
+  margin-top: -40px;
+  width: 1600px;
+}
+.lacreme{
+  background-color: #E8ECE4;
+  border: solid 3px;
+  padding-bottom: 200px;
+  padding-top: 50px;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 1180px;
+}
+.imglacreme{
+  position: relative;
+  bottom: 100px;
+}
+.Coffeeboom{
+  background-color: #E8ECE4;
+  border: solid 3px;
+  padding-bottom: 200px;
+  padding-top: 50px;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 1180px;
+}
+.imgcb{
+  position: relative;
+  bottom: 100px;
+}
+.Rafe{
+  background-color: #E8ECE4;
+  border: solid 3px;
+  padding-bottom: 200px;
+  padding-top: 50px;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 1180px;
+}
+.imgrafe{
+  position: relative;
+  bottom: 100px;
+}
+.dislacreme{
+  color: #36112B;
+}
+.discb{
+  color: #36112B;
+}
+.disrafe{
+  color: #36112B;
+}
+
+#heading {
+  font-size: 60px;
+  color: white;
+  padding-top: 370px;
+}
+#additional{
+  font-size: 40px;
+  font-family: cursive;
+  padding-top: 100px;
+}
+#form{
+  font-size: 30px;
+  padding-left: 0;
+}
+#table1{
+  font-size: 18px;
+  font-family: cursive;
+}
+#table2{
+  font-size: 18px;
+  font-family: cursive;
+}
+#table3{
+  font-size: 18px;
+  font-family: cursive;
+}
